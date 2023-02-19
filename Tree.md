@@ -1,3 +1,4 @@
+```
 Open Source Science Framework
 ├── Platform Development
 │   ├── Frontend Development
@@ -39,3 +40,4 @@ Open Source Science Framework
     ├── Sustainability Plan
     ├── Legal and Regulatory Compliance
     └── Continuous Improvement and Growth
+```
