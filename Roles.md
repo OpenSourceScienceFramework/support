@@ -1,3 +1,4 @@
+```
 Open Source Science Framework Project
 ├── Core Team
 │   ├── Project Manager
@@ -50,3 +51,4 @@ Open Source Science Framework Project
     ├── Revenue Stream Manager
     ├── Partnership Manager
     └── Sustainability and Growth Strategist
+   ```
